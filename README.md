@@ -10,13 +10,13 @@
 
 
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/29540178.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191646578.jpg)
 
 （2）累积各灰度级直方图值的反向和：
 
 
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/65175493.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191714185.jpg)
 
 
 （3）将S(k)带回直方图均衡公式。
@@ -26,24 +26,24 @@
 ## 效果图：
 
 ### 原图：
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/58904745.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191756946.jpg)
 
 ### 原图直方图：
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/81017104.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191834335.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhemhpZGFvMDAzMQ==,size_16,color_FFFFFF,t_70)
 
 ## 直方图均衡：
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/1604248.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191908198.jpg)
 
 ## 均衡后直方图：
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/28108786.jpg)
+![image](https://img-blog.csdnimg.cn/20190114191940346.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhemhpZGFvMDAzMQ==,size_16,color_FFFFFF,t_70)
 
 ## 反直方图均衡：
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/49482982.jpg)
+![image](https://img-blog.csdnimg.cn/2019011419201228.jpg)
 
 ## 反均衡后直方图：
 
-![image](http://pco31cl5b.bkt.clouddn.com/18-7-30/19050755.jpg)
+![image](https://img-blog.csdnimg.cn/20190114192030670.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2JhemhpZGFvMDAzMQ==,size_16,color_FFFFFF,t_70)
